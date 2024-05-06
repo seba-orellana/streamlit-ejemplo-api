@@ -1,5 +1,5 @@
-from project_name.base import NAME
+from streamlit_ejemplo_api.base import NAME
 
 
 def test_base():
-    assert NAME == "project_name"
+    assert NAME == "streamlit_ejemplo_api"
